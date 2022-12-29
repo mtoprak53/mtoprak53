@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mtoprak53
 - 👀 I’m interested in Front-end and Back-end Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently looking for new opportunities
 - 💞️ I’m looking to collaborate on Web Apps
 - 📫 How to reach me: mtoprak53@gmail.com
 
