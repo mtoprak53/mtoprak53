@@ -38,7 +38,6 @@ Java / Spring · AWS · modern DevOps practices
 - Two years of graduate study, Electrical & Electronics 
   Engineering — METU, Ankara
 - B.S. Electronics Engineering — Istanbul University
-- H&R Block Income Tax Preparation Course (2017)
 
 #### Open to
 
